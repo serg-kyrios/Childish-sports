@@ -36,3 +36,4 @@ function displayClients() {
         clientsList.appendChild(listItem);
     });
 }
+    
