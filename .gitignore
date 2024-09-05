@@ -16,7 +16,7 @@ local.properties
 
 # Log/OS Files
 *.log
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# See https://help.github.com/
 
 # dependencies
 /node_modules
